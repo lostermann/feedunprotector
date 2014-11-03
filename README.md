@@ -1,4 +1,4 @@
-Feed Unprotector 1.0
+Feed Unprotector 1.0 (Nov 2014)
 ===============
 
 PHP Script to mirror a .htaccess-protected podcast feed but remove the protection.
@@ -6,11 +6,13 @@ PHP Script to mirror a .htaccess-protected podcast feed but remove the protectio
 Requirements
 ----------------
 * Apache Webserver with .htaccess Capability
-* PHP 5.3 or newerver installed
+* PHP 5.3 or newer
 
 How it works
 ----------------
-Feed Unprotector takes an .htaccess-protected Feed and repliactes it on-demand on your server, effectively removing the protection. Wy is this useful? Good point! Well, I wrote this becuase the iOS Podcast application does not support protected feeds and I have a few protected podcast feeds I like to listen to and pay for. So, I decided to have my webserver replicate the feed and the MP3 files, providing me with a nice Podcast experience on iOS (and iTunes on the Mac as well, as all my playstates, etc. are now synchronized).
+Feed Unprotector takes a .htaccess-protected Feed and replicates it on-demand on your server, effectively removing the protection.
+
+Why is this useful? Good point! Well, I wrote this becuase the iOS Podcast application does not support protected feeds and I have a few protected podcast feeds I like to listen to and pay for. So, I decided to have my webserver replicate the feed and the MP3 files, providing me with a nice Podcast experience on iOS (and iTunes on the Mac as well, as all my playstates, etc. are now synchronized).
 
 How to setu it up
 ----------------
@@ -20,4 +22,4 @@ How to setu it up
 
 Contact
 ----------------
-If you have questions or comments or need help setting this up, do not hesitate to contact me at gibthub@ostyonline.com
+If you have questions or comments or need help setting this up, do not hesitate to contact me at gibthub@ostyonline.com.
